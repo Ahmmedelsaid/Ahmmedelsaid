@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmmedelsaid
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning React.js
+- 👀 I am a recent computer science graduate with a strong passion for front-end development with React.JS
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me ahmmed.elzayat@gmail.com
 
 <!---
