@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahmmedelsaid
-- 👀 I am a recent computer science graduate with a strong passion for front-end development, I also have hands-on experience with React.JS and Angular.
+- 👀 Passionate about front-end development, I'm a recent computer science graduate with expertise in Angular, TypeScript, as well as hands-on experience with Bootstrap for crafting polished web interfaces..
 - 📫 How to reach me ahmmed.elzayat@gmail.com
 
 <!---
