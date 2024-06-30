@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Ahmmedelsaid
-- 👀 Passionate about front-end development, I'm a recent computer science graduate with expertise in Angular, TypeScript, as well as hands-on experience with Bootstrap for crafting polished web interfaces..
+- Junior Frontend developer designing and building responsive web applications. Proficient with HTML, CSS and JS Frameworks. Expertise in Angular framework and its ability to create simple and scalable code for SPA.
 - 📫 How to reach me ahmmed.elzayat@gmail.com
 
 <!---
