@@ -1,4 +1,7 @@
-- Junior Frontend developer designing and building responsive web applications. Proficient with HTML, CSS, JS and TS. Expertise in Angular framework and its ability to create simple and scalable code for SPA.
+Software Engineer (Frontend) with 2+ years of experience specializing in Angular, TypeScript, and modern web application development. Experienced in building scalable ERP systems, enterprise applications, and e-commerce
+platforms. Skilled in developing reusable components, dynamic forms, real-time features using SignalR, and integrating RESTful APIs. Experienced in building applications using Component-Based and Modular Architecture,
+leveraging RxJS, performance optimization techniques, and clean code principles. Proven ability to collaborate
+within Agile/Scrum teams to deliver scalable and maintainable software solutions.
 - 📫 How to reach me ahmmed.elzayat@gmail.com
 
 <!---
